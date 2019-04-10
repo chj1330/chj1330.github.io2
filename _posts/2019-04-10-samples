@@ -1,0 +1,19 @@
+---
+title: "MULTI-SPEAKER EMOTIONAL ACOUSTIC MODELING FOR CNN-BASED SPEECH SYNTHESIS"
+date: 2019-04-10 10:53:00 +0900
+categories: 2019 ICASSP
+---
+
+# Audio sample
+
+Index  
+[1.Female A](#Female A)
+
+
+## Female A
+
+
+| Systems | Natural | Happy | Sad | Angry | 
+|:-:|:-:|:-:|:-:|:-:|
+| Original | <audio src="/checkpoint_step001040000_ema_ema00014.wav" controls preload></audio> | <audio src="/checkpoint_step001040000_ema_ema00014.wav" controls preload></audio> | <audio src="/checkpoint_step001040000_ema_ema00014.wav" controls preload></audio> | <audio src="/checkpoint_step001040000_ema_ema00014.wav" controls preload></audio> |
+| SC-EC | <audio src="/checkpoint_step001040000_ema_ema00014.wav" controls preload></audio> | <audio src="/checkpoint_step001040000_ema_ema00014.wav" controls preload></audio> | <audio src="/checkpoint_step001040000_ema_ema00014.wav" controls preload></audio> | <audio src="/checkpoint_step001040000_ema_ema00014.wav" controls preload></audio> |
